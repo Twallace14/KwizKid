@@ -1,11 +1,12 @@
 :root {
-    background-color: rgb(133, 16, 16);
-    font-size: 62.5%;
+    background-color: rgb(232, 241, 247);
+    font-size: 63.5%;
 }
 
 *{
     box-sizing: border-box;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'Life Savers', cursive;
     margin: 0;
     padding: 0;
     color: black;
@@ -17,7 +18,7 @@ h1,h2,h3,h4{
 
 h1 {
     font-size: 5.4rem;
-    color: deepskyblue;
+    color: rgb(0, 81, 255);
     margin-bottom: 5rem;
 }
 
@@ -53,6 +54,7 @@ h4{
     align-items: center;
     max-width: 80rem;
     margin: 0 auto;
+    padding: 2rem;
 }
 
 .container > * {
@@ -88,9 +90,9 @@ h4{
     padding: 1rem 0;
     width: 20rem;
     text-align: center;
-    border: 0.1rem solid dodgerblue;
+    border: 0.1rem solid rgb(28, 122, 230);
     background-color: aliceblue;
-    color: deepskyblue;
+    color: rgb(28, 122, 230);
     text-decoration: none;
     margin-bottom: 1rem;
 }

@@ -3,20 +3,20 @@
     margin-bottom:0.5rem;
     width: 100%;
     font-size: 1.8rem;
-    border: 0.1rem solid dodgerblue;
-    background-color: whitesmoke;
+    border: 0.1rem solid rgb(6, 80, 155);
+    background-color: white;
 }
 
 .choice-container:hover{
     cursor: pointer;
-    box-shadow: 0 0.4rem 1.4rem 0 darkblue;
+    box-shadow: 0 0.4rem 1.4rem 0 rgb(1, 33, 104);
     transform: translateY(-0.1rem);
     transition: transform 150ms;
 }
 
 .choice-prefix{
     padding: 1.5rem 2.5rem;
-    background-color: dodgerblue;
+    background-color: rgb(6, 80, 155);
     color: white;
 }
 
@@ -26,11 +26,11 @@
 }
 
 .correct {
-    background-color: lightgreen;
+    background-color: rgb(131, 250, 33);
 }
 
 .incorrect{
-    background-color: darkred;
+    background-color: rgb(243, 73, 21);
 }
 
 #hud{
@@ -40,7 +40,7 @@
 
 .hud-prefix {
     text-align: center;
-    font-size: 3.4rem;
+    font-size: 2rem;
 }
 
 .hud-main-text {
@@ -48,13 +48,32 @@
 }
 
 #progressBar {
-    width: 40rem;
+    width: 20rem;
     height: 4rem;
-    border: 0.3rem solid dodgerblue;
+    border: 0.3rem solid rgb(6, 80, 155);
+    margin-top: 1.5rem;
 }
 
 #progressBarFull {
     height: 3.4rem;
-    background-color: dodgerblue;
-    width: 90%
+    background-color: rgb(6, 80, 155);
+    width: 0%
+}
+
+#loader {
+    border: 1.6rem solid white;
+    border-radius: 50%;
+    border-top: 1.6rem solid black;
+    width: 12rem;
+    height: 12rem;
+    animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
 }
