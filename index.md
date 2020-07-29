@@ -16,7 +16,7 @@
       href="https://fonts.googleapis.com/css2?family=Life+Savers&display=swap"
       rel="stylesheet"
     />
-    <link rel="stylesheet" href="app.css" />
+    <link rel="stylesheet" href="app.css"/>
   </head>
 
   <body>
