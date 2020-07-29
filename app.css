@@ -44,6 +44,10 @@ h4{
     font-weight: 300;
 }
 
+span{
+    font-size: 1.4rem;
+}
+
 /*classes*/
 
 .container{
@@ -116,6 +120,11 @@ h4{
     margin-bottom: 5rem
 }
 
+.red{
+    color: rgb(255, 23, 23);
+    font-size: 2.3rem;
+}
+
 form{
     width: 100%;
     display: flex;
@@ -134,3 +143,15 @@ input {
 input::placeholder {
     text-align: center;
 }
+
+
+#highScoreIndicator {
+    color: rgb(11, 3, 83);
+    animation: blinker 1s linear infinite;
+    margin-bottom: 1%;
+    font-size: 1.8rem;
+  }
+  
+  @keyframes blinker {  
+    75% { opacity: 0; }
+  }

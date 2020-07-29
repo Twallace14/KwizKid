@@ -1,0 +1,125 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "category": "Entertainment: Television",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Grant Gustin plays which superhero on the CW show of the same name?",
+            "correct_answer": "The Flash",
+            "incorrect_answers": [
+                "The Arrow",
+                "Black Canary",
+                "Daredevil"
+            ]
+        },
+        {
+            "category": "Entertainment: Television",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "In which British seaside town was the BBC sitcom Fawlty Towers set?",
+            "correct_answer": "Torquay",
+            "incorrect_answers": [
+                "Blackpool",
+                "Bournemouth",
+                "Great Yarmouth"
+            ]
+        },
+        {
+            "category": "Entertainment: Television",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which of these characters in Stranger Things has the power of Telekinesis?",
+            "correct_answer": "Eleven",
+            "incorrect_answers": [
+                "Mike",
+                "Lucas",
+                "Karen"
+            ]
+        },
+        {
+            "category": "Entertainment: Television",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "In the show Stranger Things, what is Eleven's favorite breakfast food?",
+            "correct_answer": "Eggo Waffles",
+            "incorrect_answers": [
+                "Toast",
+                "Captain Crunch",
+                "Bacon and Eggs"
+            ]
+        },
+        {
+            "category": "Entertainment: Television",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What was the name of the the first episode of Doctor Who to air in 1963?",
+            "correct_answer": "An Unearthly Child",
+            "incorrect_answers": [
+                "The Daleks",
+                "The Aztecs",
+                "The Edge of Destruction"
+            ]
+        },
+        {
+            "category": "Entertainment: Television",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is the name of the main character in The Flash TV series?",
+            "correct_answer": "Barry Allen",
+            "incorrect_answers": [
+                "Oliver Queen",
+                "Bart Allen",
+                "Bruce Wayne"
+            ]
+        },
+        {
+            "category": "Entertainment: Television",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "When Donkey Kong died in the Donkey Kong Country episode It's a Wonderful Life, who was his guardian angel?",
+            "correct_answer": "Eddie the Mean Old Yeti",
+            "incorrect_answers": [
+                "Kiddy Kong",
+                "Diddy Kong",
+                "King K. Rool"
+            ]
+        },
+        {
+            "category": "Entertainment: Television",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "How many seasons did the Sci-Fi television show Stargate Universe have?",
+            "correct_answer": "2",
+            "incorrect_answers": [
+                "10",
+                "5",
+                "3"
+            ]
+        },
+        {
+            "category": "Entertainment: Television",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Who played the Waitress in the Spam sketch of Monty Python's Flying Circus?",
+            "correct_answer": "Terry Jones",
+            "incorrect_answers": [
+                "Eric Idle",
+                "Graham Chapman",
+                "John Cleese"
+            ]
+        },
+        {
+            "category": "Entertainment: Television",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Who was the first ever actor to play The Doctor on Doctor Who?",
+            "correct_answer": "William Hartnell",
+            "incorrect_answers": [
+                "David Tennant",
+                "Peter Capaldi",
+                "Tom Baker"
+            ]
+        }
+    ]
+}
