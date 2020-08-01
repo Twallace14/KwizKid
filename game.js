@@ -51,7 +51,7 @@ fetch(
 const CORRECT_BONUS = 10;
 const MAX_QUESTIONS = 10;
 
-let time = 30;
+let time = 59;
 
 
 
